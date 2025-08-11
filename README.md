@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Java Full Stack Developer from India 🇮🇳</h3>
 
 - 🔭 I’m currently working on **Java-based web applications using Spring Boot & React**
-- 🌱 I’m currently learning **Microservices, Docker, and AWS Deployment**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, Hibernate, React, and Git**
 - 📫 How to reach me: **riteshkumarara2003@gmail.com**
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ritesh-kumar-387b22274/)
